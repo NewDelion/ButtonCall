@@ -1,0 +1,3 @@
+[submodule "src/Flowy"]
+	path = src/Flowy
+	url = git://github.com/NewDelion/Flowy.git
